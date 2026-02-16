@@ -1,0 +1,66 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #fdf5e6;
+    color: #4a2c2a;
+    margin: 0;
+    padding: 20px;
+}
+header {
+    background-color: #cc0000;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+    border-radius: 8px 8px 0 0;
+}
+h1 {
+    margin: 0;
+    font-size: 2.2em;
+}
+.content {
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 0 0 8px 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+h2 {
+    color: #a0522d;
+    border-bottom: 2px solid #ff8c00;
+    padding-bottom: 5px;
+    margin-top: 25px;
+}
+ul, ol {
+    padding-left: 20px;
+}
+li {
+    margin-bottom: 8px;
+}
+.note {
+    background-color: #fff8e1;
+    border-left: 5px solid #ff8c00;
+    padding: 10px;
+    margin: 20px 0;
+    font-style: italic;
+}
+footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 0.9em;
+    color: #777;
+}
+img {
+    width: 100%; /* Make image responsive */
+    border-radius: 8px;
+    margin-top: 20px;
+}
+.tbc {color: blue;}
+.banner {width: 600px; height: 200px;}
+#cny-day5{ 
+    background-color: #ffcc00;
+    padding: 10px 0;
+    text-align: center;
+}
+#recipe {
+    background-color: #ff8c00;
+}
